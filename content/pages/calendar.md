@@ -4,34 +4,339 @@ title: Calendar
 uid: 1d9bf929-6bab-cf5f-00ba-6fb72d086b5e
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction.  {{< br >}}Excerpt from _Genesis_. | &nbsp; |
-| 2 | Sophocles, _Antigone_. Martin Luther King, _Letter from a Birmingham Jail._ | &nbsp; |
-| 3 | Plato, _The Republic._ Parts I and II (pp. 61-128) \[327a-376c\]\*\*. | &nbsp; |
-| 4 | Plato, _The Republi_c. Part III, section 2 (pp. 166-176) \[403d-412a\]; Parts IV and V (pp. 177- 24) \[412a-445d\]. | &nbsp; |
-| 5 | Plato, _The Republic._ Part VII (pp. 260-325) \[471c-521b\], Part IX, section 10 (pp. 398-420) \[576c-592a\]. | &nbsp; |
-| 6 | Aristotle, excerpt from _Nichomachean Ethics._ | &nbsp; |
-| 7 | Aristotle, excerpt from _Nichomachean Ethics._ | &nbsp; |
-| 8 | Excerpt from _The Gospel According to St Matthew.  {{< br >}}_Dante, _Inferno._ | &nbsp; |
-| 9 | Dante, _Inferno._ | &nbsp; |
-| 10 | Dante, _Inferno._ | FIRST PAPER DUE (SIX PAGES) |
-| 11 | Machiavelli, excerpt from _The Prince.  {{< br >}}_Shakespeare, _Julius Caesar._ | &nbsp; |
-| 12 | Shakespeare, _Julius Caesar._ | &nbsp; |
-| 13 | Shakespeare, _Julius Caesar._ | &nbsp; |
-| 14 | Thomas Hobbes, excerpt from _Leviathan._ | &nbsp; |
-| 15 | Herman Melville, _Billy Budd._ | &nbsp; |
-| 16 | Herman Melville, _Billy Budd._ | &nbsp; |
-| 17 | Kant: Excerpts from _Metaphysics of Morals._ | SECOND PAPER DUE (SIX PAGES) |
-| 18 | J. S. Mill, excerpts from _Utilitarianism._ | &nbsp; |
-| 19 | Dostoyevsky, _Crime and Punishment_, Part I. | &nbsp; |
-| 20 | Dostoyevsky, _Crime and Punishment_, Part II, Part III, ch.  1-3. | &nbsp; |
-| 21 | Dostoyevsky, _Crime and Punishment_, Part III, 4-end, Part IV, Part V. | &nbsp; |
-| 22 | Dostoyevsky, _Crime and Punishment_, Part VI, Epilogue. | &nbsp; |
-| 23 | Conrad, "The Secret Sharer." | &nbsp; |
-| 24 | Shaw, _Major Barbara._ | &nbsp; |
-| 25 | Shaw, _Major Barbara._ | &nbsp; |
-| 26 | Flannery O. Connor, "The Displaced Person." | FINAL PAPER DUE (TEN PAGES) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction.  
+Excerpt from _Genesis_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Sophocles, _Antigone_. Martin Luther King, _Letter from a Birmingham Jail._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Plato, _The Republic._ Parts I and II (pp. 61-128) \[327a-376c\]\*\*.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Plato, _The Republi_c. Part III, section 2 (pp. 166-176) \[403d-412a\]; Parts IV and V (pp. 177- 24) \[412a-445d\].
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Plato, _The Republic._ Part VII (pp. 260-325) \[471c-521b\], Part IX, section 10 (pp. 398-420) \[576c-592a\].
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Aristotle, excerpt from _Nichomachean Ethics._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Aristotle, excerpt from _Nichomachean Ethics._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Excerpt from _The Gospel According to St Matthew.  
+_Dante, _Inferno._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Dante, _Inferno._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Dante, _Inferno._
+{{< tdclose >}}
+{{< tdopen >}}
+FIRST PAPER DUE (SIX PAGES)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Machiavelli, excerpt from _The Prince.  
+_Shakespeare, _Julius Caesar._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, _Julius Caesar._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, _Julius Caesar._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Thomas Hobbes, excerpt from _Leviathan._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Herman Melville, _Billy Budd._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Herman Melville, _Billy Budd._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Kant: Excerpts from _Metaphysics of Morals._
+{{< tdclose >}}
+{{< tdopen >}}
+SECOND PAPER DUE (SIX PAGES)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+J. S. Mill, excerpts from _Utilitarianism._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoyevsky, _Crime and Punishment_, Part I.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoyevsky, _Crime and Punishment_, Part II, Part III, ch.  1-3.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoyevsky, _Crime and Punishment_, Part III, 4-end, Part IV, Part V.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoyevsky, _Crime and Punishment_, Part VI, Epilogue.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Conrad, "The Secret Sharer."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Shaw, _Major Barbara._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Shaw, _Major Barbara._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Flannery O. Connor, "The Displaced Person."
+{{< tdclose >}}
+{{< tdopen >}}
+FINAL PAPER DUE (TEN PAGES)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
